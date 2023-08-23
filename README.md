@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Varshney</h1>
 <h3 align="center">IIT Kanpur'24</h3>
-<h3 align="center"><a href="https://vikas-code-ux.github.io/HomePage/">HomePage</a></h3>
+<h3 align="center"><a href="https://vikas-code-ux.github.io/HomePage/" target="_blank">HomePage</a></h3>
 
 - 📫 How to reach me **vikasvarshney767@gmail.com**
 

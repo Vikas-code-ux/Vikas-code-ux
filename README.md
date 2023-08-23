@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikas Varshney</h1>
 <h3 align="center">IIT Kanpur'24</h3>
 
-- 👨‍💻 All of my projects are available at [https://vikas-code-ux.github.io/HomePage/](https://vikas-code-ux.github.io/HomePage/)
+<h3 align="center"><a href="https://vikas-code-ux.github.io/HomePage/">HomePage</a></h3>
 
 - 📫 How to reach me **vikasvarshney767@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
